@@ -13,7 +13,7 @@ try {
         "__type": "Date",
         "iso": "2025-08-05T03:32:39.000Z"
     }
-    
+    json.isActive = true
     json.actived = true
     console.log("user 已修改");
 
