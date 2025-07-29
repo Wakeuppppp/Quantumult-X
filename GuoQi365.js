@@ -23,6 +23,7 @@ try {
     // }
 
     userData.test = "hello world"
+    userData.nickname = "hello nick"
 
     
     // 可选：添加虚假到期时间
