@@ -1,8 +1,8 @@
 // GuoQi365.js 会员解锁脚本
 let body = $response.body;
-const userData = json.result.data;
 try {
   let json = JSON.parse(body);
+  const userData = json.result.data;
   const fakeData = {
         "last_modify": userData.last_modify,
   			"expires_date": "4102415999520",
