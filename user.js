@@ -15,7 +15,7 @@ try {
     }
     
     json.actived = true
-    console.log("会员权限已解锁成功");
+    console.log("user 已修改");
 
     body = JSON.stringify(json);
 } catch (error) {
