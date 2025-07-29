@@ -9,15 +9,16 @@ try {
     const userData = json.result.data;
     
     // 会员权限升级
-    userData.entitlement = "premium";
-    userData.membership_type = 1;
+    // userData.entitlement = "premium";
+    // userData.membership_type = 1;
+    userData.blocked = true;
     userData.actived = true;
-    userData.permissions = [1, 2]; // 高级权限
+    // userData.permissions = [1, 2]; // 高级权限
     
     // 移除升级提示
     if (userData.event) {
       // userData.event.valid = false;
-      userData.event.name = "我是你爸爸";
+      userData.event.name = "测试题目";
        userData.event.desc = "这是一条测试信息";
     }
     
