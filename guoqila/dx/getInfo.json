@@ -1,23 +1,21 @@
 {
-  "result" : {
-    "message" : "success",
-    "data" : {
-      "owner" : {
-        "id" : "68885c34f900e665516200e5",
-        "permissions" : [
+  "result": {
+    "message": "success",
+    "data": {
+      "owner": {
+        "id": "68885c34f900e665516200e5",
+        "permissions": [
           -1
         ],
-        "nickname" : "181****7605",
-        "joined_at" : "2025-07-29T05:29:25.190Z",
-        "role" : 1
+        "nickname": "181****7605",
+        "joined_at": "2025-07-29T05:29:25.190Z",
+        "role": 1
       },
-      "group_name" : "共享群组",
-      "is_active" : false,
-      "members" : [
-
-      ],
-      "group_id" : "68885c35fee00a54a568cb51"
+      "group_name": "共享群组",
+      "is_active": false,
+      "members": [],
+      "group_id": "68885c35fee00a54a568cb51"
     },
-    "code" : 1
+    "code": 1
   }
 }

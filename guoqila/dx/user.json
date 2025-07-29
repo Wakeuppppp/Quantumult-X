@@ -1,56 +1,54 @@
 {
-  "updatedAt" : "2025-07-29T05:33:20.289Z",
-  "mobilePhoneNumber" : "+8618123257605",
-  "folderNum" : 0,
-  "searchUsage" : 0,
-  "deviceToken" : "ECA76AF7-245A-4F00-8161-D138B32C12C0",
-  "refunded" : false,
-  "codeUsage" : 0,
-  "buildVersion" : "1403",
-  "locked" : false,
-  "nickname" : "181****7605",
-  "appVersion" : "4.7.1",
-  "refreshedAt" : {
-    "__type" : "Date",
-    "iso" : "2025-07-29T05:29:28.710Z"
+  "updatedAt": "2025-07-29T05:33:20.289Z",
+  "mobilePhoneNumber": "+8618123257605",
+  "folderNum": 0,
+  "searchUsage": 0,
+  "deviceToken": "ECA76AF7-245A-4F00-8161-D138B32C12C0",
+  "refunded": false,
+  "codeUsage": 0,
+  "buildVersion": "1403",
+  "locked": false,
+  "nickname": "181****7605",
+  "appVersion": "4.7.1",
+  "refreshedAt": {
+    "__type": "Date",
+    "iso": "2025-07-29T05:29:28.710Z"
   },
-  "blocked" : false,
-  "goodsNum" : 0,
-  "mobilePhoneVerified" : true,
-  "objectId" : "68885c34f900e665516200e5",
-  "entitlement" : "basic",
-  "authData" : {
-
+  "blocked": false,
+  "goodsNum": 0,
+  "mobilePhoneVerified": true,
+  "objectId": "68885c34f900e665516200e5",
+  "entitlement": "basic",
+  "authData": {},
+  "sex": 0,
+  "removeTimes": 0,
+  "valid": false,
+  "createdAt": "2025-07-29T05:29:24.637Z",
+  "isActive": false,
+  "tagNum": 0,
+  "lastLogined": {
+    "__type": "Date",
+    "iso": "2025-07-29T05:29:54.735Z"
   },
-  "sex" : 0,
-  "removeTimes" : 0,
-  "valid" : false,
-  "createdAt" : "2025-07-29T05:29:24.637Z",
-  "isActive" : false,
-  "tagNum" : 0,
-  "lastLogined" : {
-    "__type" : "Date",
-    "iso" : "2025-07-29T05:29:54.735Z"
+  "pro": "free",
+  "username": "kgfx5flc9u9464sp4t81xb16c",
+  "RCAnonymousID": "$RCAnonymousID:0fc9bd6c115344f9af2a1edf00a62ed4",
+  "shared": false,
+  "emailVerified": false,
+  "deleted": false,
+  "extraMember": 0,
+  "group": {
+    "__type": "Pointer",
+    "className": "UserGroup",
+    "objectId": "68885c35fee00a54a568cb51"
   },
-  "pro" : "free",
-  "username" : "kgfx5flc9u9464sp4t81xb16c",
-  "RCAnonymousID" : "$RCAnonymousID:0fc9bd6c115344f9af2a1edf00a62ed4",
-  "shared" : false,
-  "emailVerified" : false,
-  "deleted" : false,
-  "extraMember" : 0,
-  "group" : {
-    "__type" : "Pointer",
-    "className" : "UserGroup",
-    "objectId" : "68885c35fee00a54a568cb51"
-  },
-  "membership" : 0,
-  "extraGroup" : 0,
-  "recordNum" : 0,
-  "loginTimes" : 1,
-  "actived" : false,
-  "firstSeen" : {
-    "__type" : "Date",
-    "iso" : "2025-07-22T03:28:21.000Z"
+  "membership": 0,
+  "extraGroup": 0,
+  "recordNum": 0,
+  "loginTimes": 1,
+  "actived": false,
+  "firstSeen": {
+    "__type": "Date",
+    "iso": "2025-07-22T03:28:21.000Z"
   }
 }
