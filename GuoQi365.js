@@ -11,16 +11,19 @@ try {
     // 会员权限升级
     // userData.entitlement = "premium";
     // userData.membership_type = 1;
-    userData.blocked = true;
-    userData.actived = true;
+    // userData.blocked = true;
+    // userData.actived = true;
     // userData.permissions = [1, 2]; // 高级权限
     
     // 移除升级提示
-    if (userData.event) {
+    // if (userData.event) {
       // userData.event.valid = false;
-      userData.event.name = "测试题目";
-       userData.event.desc = "这是一条测试信息";
-    }
+      // userData.event.name = "测试题目";
+       // userData.event.desc = "这是一条测试信息";
+    // }
+
+    userData.test = "hello world"
+
     
     // 可选：添加虚假到期时间
     userData.expireDate = "2099-12-31T23:59:59Z";
