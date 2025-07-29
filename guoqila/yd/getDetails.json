@@ -1,0 +1,28 @@
+{
+  "result" : {
+    "message" : "success",
+    "data" : {
+      "last_modify" : "1753768661250",
+      "expires_date" : "1754364759000",
+      "blocked" : false,
+      "mobile" : "+8618282616106",
+      "permissions" : [
+        -1
+      ],
+      "actived" : true,
+      "rc_id" : "$RCAnonymousID:d56ccc8a1db04fd980cc4f2bb53b85ca",
+      "user_id" : "687f0554fee00a54a54220f2",
+      "group_name" : "共享群组",
+      "shared" : false,
+      "entitlement" : "pro",
+      "deleted" : false,
+      "group_id" : "687f05548315b833a12344bd",
+      "locked" : false,
+      "token" : "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Il_YlICq3jrBJJfB.ta2ErKrDlbaese_Fk1fQlDl8Xoa72uN4LoKe62ZUDqkZU2Oe4RO566hnQGM9tS8JvTAbpUXvRepaYVhqsE-KIiPkmHbDFPM6Yi9SdXGq3HZxRHwfOJcVd35tfr-eNu9NNnmkV2Sn3t6rvzaA3MYnRhRqoCXyahltLz_CVl9BzCpVj8gcgyK_PMr9fLUouh_q7ainpmpREtaGTDKKq3ddIYp9tV8sqmK9iE1J2dQr0v_nDjYFfIcIsHqNT7055IJOWpNURki6f4TbIOqbUtlGTgb1kjIe-zBdullfynW8ld9VSgHCmmGcZIo7E20lHmi3aREmcIh9p9oAxMNpMLvCoN2VTvdZ-fxbu5xQWqaj4U4Q1ypPQ1zIP_hAfbhLiZRCzsLf28q4n36rGQpO_7V9y43OajsBFE3pUjYnHeen1RFWxTLu75d-XAY9Swhnf1RBaYD6HntOrSrbIwNpHMVDaaSVKTNTKc3WFBUJ9RJYmYltHMNu5CNNoAByQpklQraKHFzVuk5F7fCO8ivz83MxaO5z304H51HDRO3n2dxRHvU.8XDID2tf1pX1uAD_eP-oZQ",
+      "role" : 1,
+      "membership_type" : 2,
+      "nickname" : "WakeBlue"
+    },
+    "code" : 1
+  }
+}

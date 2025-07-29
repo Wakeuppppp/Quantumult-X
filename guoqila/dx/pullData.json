@@ -1,0 +1,38 @@
+{
+  "result" : {
+    "message" : "success",
+    "data" : {
+      "folder" : {
+        "last_modify" : "1753164770354"
+      },
+      "record" : {
+        "last_modify" : "1753752809094"
+      },
+      "last_modify_user" : "1753767147005",
+      "tag" : {
+        "last_modify" : "1753154929119"
+      },
+      "need_update" : false,
+      "group_id" : "68885c35fee00a54a568cb51",
+      "location" : {
+        "last_modify" : "0"
+      },
+      "relation_tag" : {
+        "last_modify" : "0"
+      },
+      "list" : {
+        "last_modify" : "0"
+      },
+      "activity" : {
+        "last_modify" : "0"
+      },
+      "goods" : {
+        "last_modify" : "1753752808909"
+      },
+      "content" : {
+        "last_modify" : "1753752809460"
+      }
+    },
+    "code" : 1
+  }
+}

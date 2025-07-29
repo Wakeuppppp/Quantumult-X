@@ -1,0 +1,36 @@
+{
+  "result" : {
+    "message" : "success",
+    "data" : {
+      "last_modify" : "1753767147005",
+      "blocked" : false,
+      "mobile" : "+8618123257605",
+      "permissions" : [
+        -1
+      ],
+      "actived" : false,
+      "rc_id" : "$RCAnonymousID:0fc9bd6c115344f9af2a1edf00a62ed4",
+      "user_id" : "68885c34f900e665516200e5",
+      "group_name" : "共享群组",
+      "shared" : false,
+      "entitlement" : "free",
+      "deleted" : false,
+      "group_id" : "68885c35fee00a54a568cb51",
+      "locked" : false,
+      "event" : {
+        "icon" : "https://img.vanemu.com/assets/event004.png",
+        "id" : "636a0b84f70b896dbde88aa6",
+        "platform" : "ios",
+        "valid" : true,
+        "type" : "member",
+        "name" : "升级到高级会员",
+        "desc" : "享受无限扫码添加、自定义临期提醒等高级功能"
+      },
+      "role" : 1,
+      "membership_type" : 0,
+      "nickname" : "181****7605",
+      "token" : "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..5Q41sTw6IZs7fxkT.WU-tbeBf0n4_B1lgzcCZWYxU_sHNPteNEPCP9NKq0V0x0npSeBYm-UUijVbcBud-fXK55kI_oGx0HlmpoxvIGwIkITPSt0HpS-klxH-_WYi9gKcBENxbkjoFOOnmtNK4x1Xr4ktH2gEuy_M_qvqDBSpj2gZR2bgQec6yh6kBkMKc5bu4IjBNTCp2-iR0eHiOojDTqJVkvi1DTypi36sdjPKWVwCIlXtO6Snd8Ms2WEGfIkh6Z8rWo5FKe_wXIIIyzdnUvgyMms6C_ZP9hJGn5-JFouDXeEZQGSDIGdC7bjNnJ1P_esrK6k-ssfUXb8LIVxaPsRfH7jvlDOhbVIxR8hoOS6wxm96suDXw9D75VQjvM0jXOcPGIbZZ-TVaFJMvu2fwYUuhUdGsE-VLzFQAEPpeh7b8hpjb2xT0P_xxqSlzGiRURrt6xE1CKsZeznGZSJrb2RffghlTzekmlqC-GRH-3qSMgqTYfAAcHEsDLZ9kEVGcWHp8NQD4FHxvU7yHEUILLl1meSTQ7N4CnfRhACr0-Lyk8u558ffzpLGfjotV_gFcmJoUsKJB-oVEqdkGhjPfXrgbhRhEBoH17FY5JW9V2Jfc6czo2jZX_e7cwV2QJSEQ_zwUxtqjxQlJRnfU5uZU3zOl5S47RDSW535x2_9iFROt-ytMg5fHFenGzzi1knnOPyHTujOX2VjDIFtezUII1UZVpjo6H6K3qMz67Bh9O4GxGe4wQ4LMTQ6Lii1SQMz39ET9lCqci7rEejZa6CiL7kyuy52eeT5u865ljQDm81QGtw6QJ3O4J25WKt6iZ5gg2beHd36Gf4KuzUwX6OuS4N2QhNiIjQ.Ix4pMpc8Xiu04ZbYlPfbAQ"
+    },
+    "code" : 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "updatedAt" : "2025-07-29T05:57:57.027Z",
+  "mobilePhoneNumber" : "+8618282616106",
+  "folderNum" : 8,
+  "searchUsage" : 0,
+  "deviceToken" : "ECA76AF7-245A-4F00-8161-D138B32C12C0",
+  "refunded" : false,
+  "codeUsage" : 6,
+  "buildVersion" : "1403",
+  "locked" : false,
+  "nickname" : "WakeBlue",
+  "appVersion" : "4.7.1",
+  "refreshedAt" : {
+    "__type" : "Date",
+    "iso" : "2025-07-29T05:21:50.685Z"
+  },
+  "blocked" : false,
+  "goodsNum" : 1,
+  "mobilePhoneVerified" : true,
+  "objectId" : "687f0554fee00a54a54220f2",
+  "purchasedAt" : {
+    "__type" : "Date",
+    "iso" : "2025-07-29T03:32:39.000Z"
+  },
+  "entitlement" : "pro",
+  "authData" : {
+
+  },
+  "sex" : 0,
+  "removeTimes" : 0,
+  "valid" : false,
+  "createdAt" : "2025-07-22T03:28:20.629Z",
+  "isActive" : true,
+  "tagNum" : 8,
+  "lastLogined" : {
+    "__type" : "Date",
+    "iso" : "2025-07-29T05:57:34.160Z"
+  },
+  "pro" : "yearly",
+  "username" : "48bkzrn762i0s894yngbmy60s",
+  "RCAnonymousID" : "$RCAnonymousID:d56ccc8a1db04fd980cc4f2bb53b85ca",
+  "shared" : false,
+  "emailVerified" : false,
+  "deleted" : false,
+  "extraMember" : 0,
+  "group" : {
+    "__type" : "Pointer",
+    "className" : "UserGroup",
+    "objectId" : "687f05548315b833a12344bd"
+  },
+  "membership" : 2,
+  "extraGroup" : 0,
+  "recordNum" : 1,
+  "loginTimes" : 4,
+  "expiredAt" : {
+    "__type" : "Date",
+    "iso" : "2025-08-05T03:32:39.000Z"
+  },
+  "actived" : true,
+  "firstSeen" : {
+    "__type" : "Date",
+    "iso" : "2025-07-22T03:28:20.516Z"
+  }
+}

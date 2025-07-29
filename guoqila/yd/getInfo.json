@@ -1,0 +1,23 @@
+{
+  "result" : {
+    "message" : "success",
+    "data" : {
+      "owner" : {
+        "id" : "687f0554fee00a54a54220f2",
+        "permissions" : [
+          -1
+        ],
+        "nickname" : "WakeBlue",
+        "joined_at" : "2025-07-22T03:28:20.777Z",
+        "role" : 1
+      },
+      "group_name" : "共享群组",
+      "is_active" : true,
+      "members" : [
+
+      ],
+      "group_id" : "687f05548315b833a12344bd"
+    },
+    "code" : 1
+  }
+}

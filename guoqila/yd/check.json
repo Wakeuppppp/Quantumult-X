@@ -1,0 +1,10 @@
+{
+  "result" : {
+    "message" : "success",
+    "data" : {
+      "type" : "session",
+      "status" : 1
+    },
+    "code" : 1
+  }
+}
