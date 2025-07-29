@@ -3,37 +3,29 @@ let body = $response.body;
 
 try {
   let json = JSON.parse(body);
-  
-  // 修改核心会员字段
-  if (json.result && json.result.data) {
-    const userData = json.result.data;
-    
-    // 会员权限升级
-    // userData.entitlement = "premium";
-    // userData.membership_type = 1;
-    // userData.blocked = true;
-    // userData.actived = true;
-    // userData.permissions = [1, 2]; // 高级权限
-    
-    // 移除升级提示
-    // if (userData.event) {
-      // userData.event.valid = false;
-      // userData.event.name = "测试题目";
-       // userData.event.desc = "这是一条测试信息";
-    // }
-
-    userData.test = "hello world"
-    userData.nickname = "hello nick"
-
-    
-    // 可选：添加虚假到期时间
-    userData.expireDate = "2099-12-31T23:59:59Z";
-    
-    // 更新原始JSON结构
-    json.result.data = userData;
-    
-    console.log("会员权限已解锁成功");
+  const fakeData = {
+        "last_modify": userData.last_modify,
+  			"expires_date": "4102415999520",
+  			"blocked": userData.blocked,
+  			"mobile": userData.mobile,
+  			"permissions": userData.permissions,
+  			"actived": true,
+  			"rc_id": "$RCAnonymousID:d56ccc8a1db04fd980cc4f2bb53b85ca",
+  			"user_id": userData.user_id,
+  			"group_name": "共享群组",
+  			"shared": userData.shared,
+  			"entitlement": "pro",
+  			"deleted": userData.deleted,
+  			"group_id": userData.group_id,
+  			"locked": userData.locked,
+  			"token": userData.token,
+        "role": userData.role,
+  			"membership_type": 2,
+  			"nickname": userData.nickname
   }
+  // 更新原始JSON结构
+  json.result.data = fakeData;
+  console.log("会员权限已解锁成功"); 
   
   body = JSON.stringify(json);
 } catch (error) {
