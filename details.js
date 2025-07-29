@@ -25,7 +25,7 @@ try {
   }
   // 更新原始JSON结构
   json.result.data = fakeData;
-  console.log("会员权限已解锁成功"); 
+  console.log("details 已修改"); 
   
   body = JSON.stringify(json);
 } catch (error) {
