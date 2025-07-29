@@ -16,8 +16,9 @@ try {
     
     // 移除升级提示
     if (userData.event) {
-      userData.event.valid = false;
+      // userData.event.valid = false;
       userData.event.name = "我是你爸爸";
+       userData.event.desc = "这是一条测试信息";
     }
     
     // 可选：添加虚假到期时间
