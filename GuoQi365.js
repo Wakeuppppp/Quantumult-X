@@ -1,6 +1,6 @@
 // GuoQi365.js 会员解锁脚本
 let body = $response.body;
-
+const data = json.result.data;
 try {
   let json = JSON.parse(body);
   const fakeData = {
