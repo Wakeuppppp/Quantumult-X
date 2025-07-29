@@ -12,7 +12,7 @@ try {
     userData.entitlement = "premium";
     userData.membership_type = 1;
     userData.actived = true;
-    userData.permissions = [1, 2, 3]; // 高级权限
+    userData.permissions = [1, 2]; // 高级权限
     
     // 移除升级提示
     if (userData.event) {
